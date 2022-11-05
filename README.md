@@ -13,6 +13,12 @@ And following tools / Modules:
 - **Blender**
 - **Pandas** + **Scipy** + **Matplotlib** + **Plotly** 
 
+Goals:
+- **Become a professor**
+- **Win a strong volleyball tournament**
+- **Take part in a GameJam**
+- **Go skydiving?**
+
 I love volleyball 🏐
 
 Pronouns: *He/Him*
