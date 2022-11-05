@@ -6,7 +6,8 @@ I have interests in the following languages:
 - **Python**
 - **Java** + **C#**
 - **Haskell**
+- **R**
 
-I also love volleyball 🏐
+I love volleyball 🏐
 
 Pronouns: *He/Him*
