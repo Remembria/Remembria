@@ -8,6 +8,11 @@ I have interests in the following languages:
 - **Haskell**
 - **R**
 
+And following tools / Modules:
+- **Unity 3D** + **Unity ML Agents**
+- **Blender**
+- **Pandas** + **Scipy** + **Matplotlib** + **Plotly** 
+
 I love volleyball 🏐
 
 Pronouns: *He/Him*
