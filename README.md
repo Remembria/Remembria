@@ -4,7 +4,8 @@ I am currently a 2nd year unergrad studying CS – with interests in _machine le
 
 I have interests in the following languages:
 - **Python**
-- **Java** + **C#**
+- **Java** and **C#**
+- C++ and C
 - **Haskell**
 - **R**
 
