@@ -1,5 +1,3 @@
-### 😼😼😼
-
 I am currently a 2nd year unergrad studying CS – with interests in _machine learning_, _data visualization_, and _learning as much as I can_.
 
 I have interests in the following languages:
