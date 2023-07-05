@@ -1,6 +1,6 @@
 Hello There!
 
-I am currently a 2nd year unergrad studying CS – with interests in _machine learning_, _data visualization_, _computational biology_, and _learning as much as I can_.
+I am a 3rd-year undergrad studying CS – with interests in _machine learning_, _data visualization_, _computational biology_, and _learning as much as I can_.
 
 I have interests in the following languages:
 - **Python**
@@ -9,7 +9,7 @@ I have interests in the following languages:
 - **Haskell**
 - **R**
 
-And following things / tools / modules:
+And the following things / tools / modules:
 - Unity 3D + Unity ML Agents
 - Blender
 - Pandas + Scipy + Matplotlib + Plotly
