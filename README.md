@@ -1,6 +1,6 @@
 Hello There!
 
-I am a 3rd-year undergrad studying CS – with interests in _machine learning_, _computational biology_, and learning as much as I can.
+I am a 3rd-year undergrad studying Computer Science – with interests in _machine learning_, _computational biology_, and learning as much as I can.
 
 I have interests in the following languages:
 - **Python**
