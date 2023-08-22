@@ -1,6 +1,6 @@
 Hello There!
 
-I am a 3rd-year undergrad studying CS – with interests in _machine learning_, _data visualization_, _computational biology_, and _learning as much as I can_.
+I am a 3rd-year undergrad studying CS – with interests in _machine learning_, _computational biology_, and learning as much as I can.
 
 I have interests in the following languages:
 - **Python**
@@ -12,14 +12,16 @@ I have interests in the following languages:
 And the following things / tools / modules:
 - Unity 3D + Unity ML Agents
 - Blender
-- Pandas + Scipy + Matplotlib + Plotly
+- Python Data Science Modules (Pandas + Scipy + Matplotlib + Plotly + Seaborn)
+- Python Machine Learning Modules (Tensorflow + Pytorch + Numpy)
 - ProjectEuler
 
 Goals:
 - Become a professor
-- Win a tough volleyball tournament
-- Take part in a GameJam
-- Go skydiving?
+- Write / work on an influential paper
+- Win a national volleyball tournament + play volleyball with coach Donny
+- Join a design team
+- Implement a robot's motion with machine learning 
 
 I love volleyball 🏐
 
