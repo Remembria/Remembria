@@ -20,8 +20,8 @@ Goals:
 - Become a professor
 - Write / work on an influential paper
 - Win a national volleyball tournament + play volleyball with coach Donny
-- Join a design team
-- Implement a robot's motion with machine learning 
+- Join a engineering / computer science design team
+- Implement a physical robot with deep learning 
 
 I love volleyball 🏐
 
