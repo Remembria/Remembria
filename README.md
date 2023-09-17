@@ -23,6 +23,6 @@ Goals:
 - Join a engineering / computer science design team
 - Implement a physical robot with deep learning 
 
-I love life, code, and volleyball 🏐
+**I love life, code, and volleyball 🏐**
 
 Pronouns: *He/Him*
