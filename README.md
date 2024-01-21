@@ -1,6 +1,6 @@
 Hi There!
 
-I am a 3rd-year undergrad studying Computer Science – with interests in _machine learning_, _computational biology_, and learning as much as I can.
+I am a 3rd-year undergrad studying Computer Science – with interests in _machine learning_, _robotics_, _computational biology_, and learning as much as I can.
 
 I have interests in the following languages:
 - **Python**
@@ -19,7 +19,7 @@ And the following things / tools / modules:
 Goals:
 - Become a professor
 - Write / work on an influential paper
-- Win a national volleyball tournament + play volleyball with coach Donny
+- Win a national volleyball tournament
 - Join a engineering / computer science design team
 - Implement a physical robot with deep learning 
 
