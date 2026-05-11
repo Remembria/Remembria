@@ -1,6 +1,6 @@
 Hi There!
 
-I am a 4th-year undergrad studying Computer Science – with interests in _machine learning_, _robotics_, _computational biology_, and learning as much as I can.
+I've just graduated from a UBC BSc in Computer Science – with interests in _machine learning_, _robotics_, _computational biology_, and learning as much as I can.
 
 I have interests in the following languages:
 - **Python**
