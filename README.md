@@ -17,11 +17,4 @@ And the following things / tools / modules:
 - Python Data Science Modules (Pandas + Scipy + Matplotlib + Plotly + Seaborn)
 - ProjectEuler
 
-Goals:
-- Become a professor
-- Write / work on an influential paper
-- Win a large competition
-- Join a engineering / computer science design team
-- Implement a physical robot with deep learning 
-
 Pronouns: *He/Him*
